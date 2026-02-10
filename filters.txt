@@ -1,0 +1,7 @@
+! Hide videos submitted by TomVasel
+boardgamegeek.com##a[href="/profile/TomVasel"]:upward(.col-xs-6.col-md-4)
+! Hide videos with "tom-vasel" in the video URL slug
+boardgamegeek.com##a[href*="tom-vasel"]:upward(.col-xs-6.col-md-4)
+
+! Hide videos submitted by:BoardGameCo ·on BGG
+boardgamegeek.com##a[href="/profile/BoardGameCo"]:upward(.col-xs-6.col-md-4)
