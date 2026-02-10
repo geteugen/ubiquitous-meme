@@ -1,3 +1,18 @@
+[Adblock Plus 2.0]
+! Title: My Custom Filters
+! Homepage: https://github.com/yourusername/my-brave-filters
+! Expires: 1 day
+! Version: 1.0.0
+
+! Block example ad
+||ads.example.com^
+
+! Hide annoying cookie banners on specific sites
+example.com##div.cookie-banner
+
+! Your rules here...
+
+
 ! Hide videos submitted by TomVasel
 boardgamegeek.com##a[href="/profile/TomVasel"]:upward(.col-xs-6.col-md-4)
 ! Hide videos with "tom-vasel" in the video URL slug
