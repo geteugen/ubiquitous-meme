@@ -12,7 +12,6 @@ example.com##div.cookie-banner
 
 ! Your rules here...
 
-
 ! Hide videos submitted by TomVasel
 boardgamegeek.com##a[href="/profile/TomVasel"]:upward(.col-xs-6.col-md-4)
 ! Hide videos with "tom-vasel" in the video URL slug
@@ -20,3 +19,19 @@ boardgamegeek.com##a[href*="tom-vasel"]:upward(.col-xs-6.col-md-4)
 
 ! Hide videos submitted by:BoardGameCo ·on BGG
 boardgamegeek.com##a[href="/profile/BoardGameCo"]:upward(.col-xs-6.col-md-4)
+
+
+arstechnica.com##.cne-interlude-container
+developer.mozilla.org##.toc-container > .place.side.new-side > .pong-box2 > .pong > .content
+developer.mozilla.org##.toc-container > .place.side.new-side > .pong-box2
+developer.mozilla.org##.place.bottom-banner
+www.timesnewroman.ro##[href*="https://www.bereatnr.ro"]
+www.timesnewroman.ro##.videos-wrapper
+hotnews.ro##article:has(a[href^="https://golazo.ro"])
+hotnews.ro##.medlife-box
+hotnews.ro##article:has(span:has-text(Powered by))
+hotnews.ro##article:has(span.supratitlu)
+
+hotnews.ro##.tips-wrapper
+hotnews.ro##.widget.block-9.widget_block > .post-list-block
+hotnews.ro##.widget.block-18.widget_block > .post-list-block
