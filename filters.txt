@@ -60,3 +60,4 @@ hotnews.ro##li:has-text(Powered by)
 hotnews.ro##.curated-component-slot:has(img[src*="startupcafe"])
 hotnews.ro##article:has(a[href*="b365.ro"])
 hotnews.ro##li:has(a[href*="b365.ro"])
+hotnews.ro##article.is-external
