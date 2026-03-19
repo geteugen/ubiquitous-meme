@@ -35,3 +35,7 @@ hotnews.ro##article:has(span.supratitlu)
 hotnews.ro##.tips-wrapper
 hotnews.ro##.widget.block-9.widget_block > .post-list-block
 hotnews.ro##.widget.block-18.widget_block > .post-list-block
+hotnews.ro##article:has-text(Articol susținut de)
+hotnews.ro##li:has-text(Articol susținut de)
+hotnews.ro##article:has(a[href*="golazo.ro"])
+hotnews.ro##li:has(a[href*="golazo.ro"])
