@@ -70,3 +70,4 @@ www.g4media.ro##.g4-minimized-bar
 www.g4media.ro##div.sgb-google-button
 www.g4media.ro###mediakitPlayer
 www.g4media.ro##.single__follow
+www.g4media.ro##.sgb-google-buttons
