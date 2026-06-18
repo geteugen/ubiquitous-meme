@@ -66,8 +66,8 @@ gamefound.com##.gfu-promo-banner-background.gfu-promo-banner-display--large
 gamefound.com##.gfu-promo-banner__holder
 gamefound.com##.gfu-promo-banner
 
-www.g4media.ro##.g4-minimized-bar
-www.g4media.ro##div.sgb-google-button
-www.g4media.ro###mediakitPlayer
-www.g4media.ro##.single__follow
-www.g4media.ro##.sgb-google-buttons
+g4media.ro##.g4-minimized-bar
+g4media.ro##div.sgb-google-button
+g4media.ro###mediakitPlayer
+g4media.ro##.single__follow
+g4media.ro##.sgb-google-buttons
