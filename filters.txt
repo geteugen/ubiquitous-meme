@@ -71,3 +71,13 @@ g4media.ro##div.sgb-google-button
 g4media.ro###mediakitPlayer
 g4media.ro##.single__follow
 g4media.ro##.sgb-google-buttons
+
+! Reddit promoted posts — new Reddit (desktop + mobile web)
+reddit.com##article:has(shreddit-ad-post)
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-comments-page-ad
+reddit.com##shreddit-dynamic-ad-link
+
+! old.reddit.com, if you still roll old-school
+old.reddit.com##.promoted
+old.reddit.com##.promotedlink
